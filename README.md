@@ -11,3 +11,5 @@ Aqui contém exemplos de:
 * Atualização e delete de registros
 * Criação de usuários para o database
 * Permissão e cancelamento de privilégios em um database
+* Criação de gatilhos, procedimentos e views
+* Criação de tabelas externas
